@@ -1,5 +1,7 @@
 # Репозиторий 10-ой группы
 
+Был рассмотрен тип `Euglenozoa`.
+
 ## Презентации
 
 Вводная презентация: https://docs.google.com/presentation/d/1-YkXLfHtL4LDpEVJ76qGs1vTH0EWD6xJmTLPb8fjkcU/edit?usp=sharing  
