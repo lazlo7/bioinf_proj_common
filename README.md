@@ -10,13 +10,11 @@
 ## Деревья
 
 Все построения и выравнивания были произведены с помощью программы `Mega`.  
-Для построения выравниваний использовался алгоритм `Muscle multi alignment`.  
-Для построения деревьев использовался алгоритм `Maximum likelihood estimation`.  
 
-Построенное дерево для генов, отвечающих за эпигенетику.  
-![Epigenetic linked genes: Tree](./pics/tree_epigenetic.jpg)
+Построенные деревья для геновб, связанных с эпигенетикой (представлены два разных алгоритма).
+![Phylo Tree HDAC](./pics/phylo_tree_hdac.png)
+![Phylo Tree NJ HDAC](./pics/phylo_tree_nj_hdac.png)
 
 Построенное дерево для генов, в промоторах которых есть квадруплексы/Z-DNA.  
 Для консервативности были выбраны гены процессинга рРНК, в промоторы которых попали все вторичные структуры.  
-![rRNA Processing Genes: Tree](./pics/tree_epigenetic.jpg)
-
+![Phylo Tree rRNA](./pics/phylo_tree_rrna.png)
